@@ -7,3 +7,7 @@ Example reports portfolio
 * Changes to the status to easily track completed inbound.
 * Serves as a dashboard to screen data collected from carrier booking.
 
+
+
+# [Report 2: Current Bookings Pivot](https://github.com/PatrikStriz/Current-Bookings-Pivot.git)
+* Created Pivot table to oversee B2B wholesale product sales on annual basis.
