@@ -11,3 +11,4 @@ Example reports portfolio
 
 # [Report 2: Current Bookings Pivot](https://github.com/PatrikStriz/Current-Bookings-Pivot.git)
 * Created Pivot table to oversee B2B wholesale product sales on annual basis.
+* Pivot Table was made to quickly summarize amounts per item, customer, date or country.
